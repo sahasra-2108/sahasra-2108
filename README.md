@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sahasra 👋
 
-<!--
-**sahasra-2108/sahasra-2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a B.Tech CSE student interested in programming, machine learning, cloud computing, and web development.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- C
+- Machine Learning
+- Git and GitHub
+- Cloud Computing
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Machine Learning Lab Programs
+- Java Data Structures Programs
+- Cloud Computing Experiments
+- Docker Web Server
+- Flask Web App
+
+## Contact
+- Email: your email
+- LinkedIn: your LinkedIn link
